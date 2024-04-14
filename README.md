@@ -35,9 +35,9 @@ make install
 export the following variables:
 
 ```shell
-export ROLLAPP_CHAIN_ID="rollappevm_1234-1"
+export ROLLAPP_CHAIN_ID="nim_1122-1"
 export KEY_NAME_ROLLAPP="rol-user"
-export BASE_DENOM="arax"
+export BASE_DENOM="anim"
 export DENOM=$(echo "$BASE_DENOM" | sed 's/^.//')
 export MONIKER="$ROLLAPP_CHAIN_ID-sequencer"
 ```

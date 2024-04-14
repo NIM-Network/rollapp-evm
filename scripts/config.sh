@@ -10,7 +10,7 @@ set_env_var() {
 }
 
 # Set and log environment variables
-set_env_var ROLLAPP_CHAIN_ID "rollappEVM_1234-1"
+set_env_var ROLLAPP_CHAIN_ID "nim_11122-1"
 set_env_var KEY_NAME_ROLLAPP "rol-user"
-set_env_var DENOM "urax"
+set_env_var DENOM "unim"
 set_env_var MONIKER "$ROLLAPP_CHAIN_ID-sequencer"
